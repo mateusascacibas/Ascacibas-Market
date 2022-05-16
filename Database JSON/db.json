@@ -1,0 +1,77 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Elden Ring",
+      "description": "Elden Ring is an Action Role-playing video game developed by FromSoftware and published by Bandai Namco Entertainment.",
+      "price": 250.0,
+      "year": 2022,
+      "picture": "eldenRing",
+      "gender": "RPG"
+    },
+    {
+      "id": 2,
+      "name": "FIFA 22",
+      "description": "FIFA 22 is a football simulation video game developed and published by Electronic Arts.",
+      "price": 150.0,
+      "year": 2021,
+      "picture": "fifa22",
+      "gender": "Sports (Soccer)"
+    },
+    {
+      "id": 3,
+      "name": "Gran Turismo 7",
+      "description": "Gran Turismo 7 is a racing video game developed by Polyphony Digital and published by Sony Interactive Entertainment.",
+      "price": 299.5,
+      "year": 2022,
+      "picture": "granTurismo7",
+      "gender": "Sports (Racing)"
+    },
+    {
+      "id": 4,
+      "name": "Horizon Forbidden West",
+      "description": "Horizon Forbidden West é um jogo eletrônico de RPG de ação desenvolvido pela Guerrilla Games e publicado pela Sony Interactive Entertainment.",
+      "price": 250.0,
+      "year": 2022,
+      "picture": "horizonForbidden",
+      "gender": "Action adventure"
+    },
+    {
+      "id": 5,
+      "name": "Hogwarts Legacy",
+      "description": "Hogwarts Legacy é um futuro jogo eletrônico de RPG de ação desenvolvido pela Avalanche Software e publicado pela Warner Bros.",
+      "price": 299.0,
+      "year": 2022,
+      "picture": "hogwartsLegacy",
+      "gender": "RPG"
+    },
+    {
+      "id": 6,
+      "name": "God of War Ragnarök",
+      "description": "God of War Ragnarök é um futuro jogo eletrônico de ação-aventura desenvolvido pela Santa Monica Studio e publicado pela Sony Interactive Entertainment.",
+      "price": 300.0,
+      "year": 2022,
+      "picture": "godOfWar",
+      "gender": "Action adventure"
+    },
+    {
+      "id": 7,
+      "name": "It Takes Two",
+      "description": "It Takes Two é um jogo eletrônico de ação-aventura e plataforma desenvolvido pela Hazelight Studios e publicado pela Electronic Arts sob o selo EA Originals.",
+      "price": 150.0,
+      "year": 2021,
+      "picture": "itTakesTwo",
+      "gender": "Action adventure"
+    },
+    {
+      "id": 8,
+      "name": "Ghost of Tsushima",
+      "description": "Ghost of Tsushima is an action-adventure video game developed by Sucker Punch Productions and published by Sony Interactive Entertainment.",
+      "price": 250.0,
+      "year": 2020,
+      "picture": "ghostOfTsushima",
+      "gender": "Action adventure stealth" 
+    }
+  ]
+ 
+}

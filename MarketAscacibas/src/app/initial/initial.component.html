@@ -1,0 +1,12 @@
+
+    <div class="container-fluid d-flex flex-wrap" id="general">
+        <div class="card" style="width: 50%;" *ngFor="let game of games">
+            <img src="assets/{{game.picture}}/wallpaper.jpg" height="300px" class="card-img-top" alt="{{game.name}}">
+            <div class="card-body">
+              <h5 class="card-title">{{game.name}}</h5>
+              <p class="card-text">{{game.description}}</p>
+              <a [routerLink]="['/games/' + game.id]" class="btn btn-primary">Go page</a>
+            </div>
+        </div>
+    </div>
+ 
